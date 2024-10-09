@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "f6566ba7debf2983",
+    "type": "split",
+    "children": [
+      {
+        "id": "11f1ba4a3368ff78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6705ef58f1331f53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevLog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60f20bf321b6a581",
+    "type": "split",
+    "children": [
+      {
+        "id": "800a11f1368149d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21dfff05feac3b09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c9b34fab63777fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e0e8c7e0703f8cc2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1893d604d93b7c24",
+    "type": "split",
+    "children": [
+      {
+        "id": "99b597702dd857e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f45d8d802b551c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DevLog.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b2e63db39b743c96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DevLog.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e6e3a527ab1d13a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9a85371fe7c22a9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DevLog.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "6705ef58f1331f53",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-10-09 15.19.23.excalidraw.md",
+    "Excalidraw",
+    "Grid-aligned Raycast.md",
+    "Progress.md",
+    "DevLog.md",
+    "Untitled.canvas",
+    "2024-10-09.md",
+    "Screenshots/IMG_20241008_201955_269.jpg",
+    "Screenshots/IMG_20241008_201857_737.jpg",
+    "Screenshots/IMG_20241008_201913_122.jpg",
+    "Functions Approximations.md",
+    "Raycast Algos/Grid-aligned Raycast - Walking.md",
+    "Screenshots",
+    "Raycast Algos/Grid-aligned Raycast - Lines.md",
+    "Excalidraw/Drawing 2024-10-05 22.40.38.excalidraw.md",
+    "Raycast Algos/Lines walking sketch.md",
+    "Raycast Algos",
+    "Excalidraw/Drawing 2024-10-05 12.10.07.excalidraw.md",
+    "Welcome.md"
+  ]
+}
